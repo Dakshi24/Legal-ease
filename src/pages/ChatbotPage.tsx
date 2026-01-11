@@ -3,7 +3,7 @@ import { GoogleGenerativeAI } from '@google/generative-ai';
 import { MessageSquare, Send, User } from 'lucide-react';
 
 // Initialize the Google Generative AI with your API key
-const genAI = new GoogleGenerativeAI('AIzaSyBfkx1jm9kF_doy_S4V-OaKkl6MHB9YK6g');
+const genAI = new GoogleGenerativeAI('AIzaSyDHeEZIIb4fByWarlYZinx_YuVQRDZJozQ');
 
 interface Message {
   role: 'user' | 'bot';
