@@ -1,5 +1,8 @@
 # Legal-Ease
 
+## Video Walk-Through
+https://github.com/user-attachments/assets/30dced88-a195-496a-a455-7d4e022710ca
+
 ## Inspiration
 Legal Ease AI was inspired by the struggles that immigrants and non-citizens face in navigating the legal system. As an immigrant, Dakshi has seen firsthand how confusing and overwhelming it can be to access legal resources, understand rights, and find trustworthy information. Many people are unaware of their rights, leading to fear, exploitation, and legal troubles. Seeing the lack of accessible and affordable legal aid, we wanted to build a tool that could simplify legal information, provide guidance, and empower individuals to make informed decisions about their legal situations.
 
